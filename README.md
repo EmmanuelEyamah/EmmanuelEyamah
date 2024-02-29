@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on more web projects.
 - 💬 Ask me about anything.
 - 📫 You can reach me by [Mail](mailto:officialeminz@gmail.com).
-- ⚡ Fun fact **I'm a Christian and so Friendly.**
+- ⚡ Fun fact **I love Music.**
 - 🌍 I am from Nigeria.
 
 <h3 align="left">Connect with me:</h3>
