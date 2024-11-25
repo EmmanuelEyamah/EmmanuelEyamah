@@ -71,6 +71,11 @@
        <td></td>
        <td></td>
      </tr>
+     <tr>
+       <td>React Native</td>
+       <td></td>
+       <td></td>
+     </tr>
   </tbody>
 </table>
 
