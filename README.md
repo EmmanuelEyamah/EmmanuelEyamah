@@ -13,7 +13,7 @@
 - ## 👤 About me
 
 - My Name is Emmanuel Eyamah.
-- 💻 I am a Web Developer (MERN Stack).
+- 💻 I am a Web and mobile app Developer (MERN Stack).
 - 🔭 I’m currently working on a project for [Connect Plus](https://github.com/connect-plus-online)
 - 👯 I’m looking to collaborate on more web projects.
 - 💬 Ask me about anything.
